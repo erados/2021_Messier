@@ -1,0 +1,25 @@
+{
+  "name": "my_kip_17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erados/MY_KIP_17.git"
+  },
+  "author": "erados",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erados/MY_KIP_17/issues"
+  },
+  "homepage": "https://github.com/erados/MY_KIP_17#readme",
+  "dependencies": {
+    "caver-js": "^1.6.4",
+    "pify": "^5.0.0",
+    "truffle": "^5.1.5",
+    "truffle-hdwallet-provider-klaytn": "^1.4.1"
+  }
+}
